@@ -10,6 +10,10 @@ Realizo de nuevo otra modificación sobre este fichero
 
 Vamos a probar desde SourceTree
 
+<<<<<<< HEAD
 Otra modificación para probar desde SourceTree
 
 PUEBAAAAAAAAAAAAAAAaa
+=======
+Vamos a probar again desde SourceTree
+>>>>>>> 78339b729e1f0fc7578bcf5e7ed14d7410cc8ca6
